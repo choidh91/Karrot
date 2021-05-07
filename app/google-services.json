@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "668091544321",
+    "firebase_url": "https://karrot-5322c-default-rtdb.firebaseio.com",
+    "project_id": "karrot-5322c",
+    "storage_bucket": "karrot-5322c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668091544321:android:b78b417eacd994f037a100",
+        "android_client_info": {
+          "package_name": "com.choidh.karrot.market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668091544321-22g9dbqc9k8v3ujtbq1jk2l4lbm80unp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh_Z0JEsJgoUOJ59bc-jICgIhYM5I1Woo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668091544321-22g9dbqc9k8v3ujtbq1jk2l4lbm80unp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

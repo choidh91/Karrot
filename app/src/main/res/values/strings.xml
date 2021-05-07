@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">당근마켓</string>
+    <string name="home">홈</string>
+    <string name="chats">채팅</string>
+    <string name="myPage">나의 당근</string>
+    <string name="post_for_sale">중고거래 글쓰기</string>
+    <string name="done">완료</string>
+    <string name="title">제목</string>
+    <string name="enter_price">가격</string>
+    <string name="describe">게시글 내용을 작성해주세요.</string>
+    <string name="camera_permission">Karrot requires storage access to upload a photo. Allow Karrot to access photos, media and files on your device.</string>
+    <string name="cancel">Cancel</string>
+    <string name="allow">Allow</string>
+    <string name="failed_get_photo">사진을 가져오지 못했습니다.</string>
+    <string name="failed_upload_photo">사진 업로드에 실패했습니다.</string>
+    <string name="enter_title">제목을 입력해주세요</string>
+    <string name="enter_description">내용을 입력해주세요</string>
+
+</resources>
