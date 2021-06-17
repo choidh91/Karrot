@@ -1,4 +1,4 @@
-package com.choidh.karrot.market.home
+package com.choidh.karrot.market.ui.home
 
 import android.content.Context
 import android.util.TypedValue
